@@ -9,12 +9,12 @@ div {"width: 700px;"}
 
 
 /* ID selector to select the element with id 'main-header' */
-#main-header {"margin: auto;"
+#main-header {
   /* Your code here! */
   color:red;
 }
 
 /* Class selector to select elements containing the class 'perspective-questions' */
-.perspective-questions {
+.perspective-questions {"margin: auto:"
   /* Your code here! */
 }
