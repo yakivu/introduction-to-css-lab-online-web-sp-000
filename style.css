@@ -9,7 +9,7 @@ div {"width: 700px;"}
 
 
 /* ID selector to select the element with id 'main-header' */
-#main-header {
+#main-header {"margin: auto;"
   /* Your code here! */
   color:red;
 }
